@@ -1,0 +1,47 @@
+[
+  {
+    "locations": [
+      {
+        "locationId": "0"
+      },
+      {
+        "locationId": "1"
+      }
+    ],
+    "totalDistanceKm": 5,
+    "desirabilityValue": 0
+  },
+  {
+    "locations": [
+      {
+        "locationId": "0"
+      },
+      {
+        "locationId": "1"
+      },
+      {
+        "locationId": "2"
+      },
+      {
+        "locationId": "3"
+      }
+    ],
+    "totalDistanceKm": 3,
+    "desirabilityValue": 0
+  },
+  {
+    "locations": [
+      {
+        "locationId": "0"
+      },
+      {
+        "locationId": "1"
+      },
+      {
+        "locationId": "2"
+      }
+    ],
+    "totalDistanceKm": 3,
+    "desirabilityValue": 0
+  }
+]

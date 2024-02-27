@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JourneyPlanner", "JourneyPlanner.csproj", "{636AC4EC-40C6-4ED0-964E-CE2B49433D23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{636AC4EC-40C6-4ED0-964E-CE2B49433D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636AC4EC-40C6-4ED0-964E-CE2B49433D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636AC4EC-40C6-4ED0-964E-CE2B49433D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636AC4EC-40C6-4ED0-964E-CE2B49433D23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68C46BA2-DCE7-4AA9-8FF9-2B272A5256C9}
+	EndGlobalSection
+EndGlobal
